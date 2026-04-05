@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Page-1" id="OX1ox6wzPQJO9B1MpPNa">
+    <mxGraphModel dx="1209" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="user" vertex="1">
+          <mxGeometry height="40" width="120" x="100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ATM Machine" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bank System&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-5" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" target="vRbN2Dh3GkOy1zxyzuO0-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="962.6666259765625" as="sourcePoint" />
+            <mxPoint x="170" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User" vertex="1">
+          <mxGeometry height="40" width="120" x="110" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-8" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.428;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" target="vRbN2Dh3GkOy1zxyzuO0-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="952.6666259765625" as="sourcePoint" />
+            <mxPoint x="370" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ATM Machine" vertex="1">
+          <mxGeometry height="40" width="120" x="320" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="619.5" y="962.6666259765625" as="sourcePoint" />
+            <mxPoint x="619.5" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bank System" vertex="1">
+          <mxGeometry height="40" width="120" x="560" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="370" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1: Insert ATM Card" vertex="1">
+          <mxGeometry height="30" width="120" x="210" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="280" as="sourcePoint" />
+            <mxPoint x="370" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2: Enter PIN&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="90" x="230" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="480" as="sourcePoint" />
+            <mxPoint x="370" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5: Display Menu" vertex="1">
+          <mxGeometry height="30" width="110" x="215" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="560" as="sourcePoint" />
+            <mxPoint x="370" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6: SeleCt Withdrawal&amp;nbsp;&lt;br&gt;+ Enter Amount&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="130" x="190" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="760" as="sourcePoint" />
+            <mxPoint x="370" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="920" as="sourcePoint" />
+            <mxPoint x="370" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="9: Dispense Cash" vertex="1">
+          <mxGeometry height="30" width="110" x="200" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="12: Print Receipt + Return Card" vertex="1">
+          <mxGeometry height="30" width="125" x="200" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="320" as="sourcePoint" />
+            <mxPoint x="620" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3: Verify PIN Request" vertex="1">
+          <mxGeometry height="30" width="120" x="440" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4: PIN Verified/ Access Granted" vertex="1">
+          <mxGeometry height="30" width="130" x="440" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="640" as="sourcePoint" />
+            <mxPoint x="620" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7: Check Amount Balanace" vertex="1">
+          <mxGeometry height="30" width="130" x="430" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-33" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="720" as="sourcePoint" />
+            <mxPoint x="620" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-34" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="400" as="sourcePoint" />
+            <mxPoint x="620" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="8: Balanace Sufficient" vertex="1">
+          <mxGeometry height="30" width="120" x="450" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="800" as="sourcePoint" />
+            <mxPoint x="620" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="10: Update Account Balance" vertex="1">
+          <mxGeometry height="30" width="110" x="460" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-38" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="880" as="sourcePoint" />
+            <mxPoint x="620" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vRbN2Dh3GkOy1zxyzuO0-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="11: Blance Updated" vertex="1">
+          <mxGeometry height="30" width="120" x="450" y="830" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
